@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: seongsoo/myargo:7
+        image: seongsoo/mykaniko:8
         ports:
         - containerPort: 8080
